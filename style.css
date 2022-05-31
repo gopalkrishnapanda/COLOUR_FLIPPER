@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(78, 72, 72);
+}
+#logo{
+    position:sticky;
+    left:50px;
+    top:10px;
+    color: rgb(132, 223, 208);
+    font-family: 'Pacifico', cursive;
+    font-size: 23px;
+}
+.navbar{
+    padding: 1rem;
+    background-color: rgb(17, 17, 17);
+}
+.options{
+    position: absolute;
+    left:200px;
+    top:208px;
+    color: rgb(17, 17, 17);
+}
+ul {
+    list-style-type: none;
+}
+.heading{
+    position: relative;
+    left: 485px;
+    color: rgb(17, 17, 17);
+}
+.limitedAnchorButton {
+    display: flex;
+    position: absolute;
+    top: 305%;
+    right: -605px;
+    width: 285px;
+    border-radius: 76px;
+    background-color: rgb(17, 17, 17);
+    height: 60px;
+    border-color: lightblue;
+}
+.hexButton {
+    display: flex;
+    position: absolute;
+    top: 154px;
+    right: -605px;
+    width: 285px;
+    border-radius: 76px;
+    background-color: rgb(17, 17, 17);
+    height: 60px;   
+    border-color: lightblue;
+}
+a {
+    text-decoration: none;
+    position: relative;
+    left: 100px;
+    top: 14px;
+}
+#colourname {
+top: 10px;
+top: 83px;
+font-family: cursive;
+font-size: x-large;
+}
